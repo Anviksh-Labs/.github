@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../brand-assets/logo.png" alt="Anviksh Labs" width="160">
+  <img src="logo.png" alt="Anviksh Labs" width="180">
 </p>
 
 <h1 align="center">Anviksh Labs</h1>
