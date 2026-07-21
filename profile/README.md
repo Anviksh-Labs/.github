@@ -27,11 +27,8 @@ Our mission is to engineer practical technology that solves real-world problems 
 # Engineering Domains
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,kubernetes,postgres,mongodb,redis,linux,git,github,react,nextjs,nodejs,aws,gcp"/>
-
+  <img src="banner.png" alt="Anviksh Labs Banner" width="100%">
 </p>
-
 ---
 
 ## We Build
